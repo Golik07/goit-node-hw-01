@@ -1,15 +1,15 @@
-<!-- --action list -->
+--action list
 
 https://ibb.co/7C7hjhD
 
-<!-- --action get -->
+--action get
 
 https://ibb.co/6n0JsVS
 
-<!-- --action add -->
+--action add
 
 https://ibb.co/zbvJmnH
 
-<!-- --action remove -->
+--action remove
 
 https://ibb.co/M2dvs3Z
